@@ -22,3 +22,15 @@
 [submodule "fcc-simon-game"]
 	path = fcc-simon-game
 	url = https://github.com/relwiwa/fcc-simon-game
+[submodule "fcc-leaderboard"]
+	path = fcc-leaderboard
+	url = https://github.com/relwiwa/fcc-leaderboard
+[submodule "fcc-life"]
+	path = fcc-life
+	url = https://github.com/relwiwa/fcc-life
+[submodule "fcc-recipes"]
+	path = fcc-recipes
+	url = https://github.com/relwiwa/fcc-recipes
+[submodule "fcc-markdown"]
+	path = fcc-markdown
+	url = https://github.com/relwiwa/fcc-markdown
