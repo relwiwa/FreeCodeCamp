@@ -13,3 +13,12 @@
 [submodule "fcc-meteorite-map"]
 	path = fcc-meteorite-map
 	url = https://github.com/relwiwa/fcc-meteorite-map
+[submodule "fcc-tic-tac-toe"]
+	path = fcc-tic-tac-toe
+	url = https://github.com/relwiwa/fcc-tic-tac-toe
+[submodule "fcc-wikipedia-viewer"]
+	path = fcc-wikipedia-viewer
+	url = https://github.com/relwiwa/fcc-wikipedia-viewer
+[submodule "fcc-simon-game"]
+	path = fcc-simon-game
+	url = https://github.com/relwiwa/fcc-simon-game
