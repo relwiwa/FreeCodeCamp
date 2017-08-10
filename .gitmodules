@@ -1,0 +1,15 @@
+[submodule "fcc-bar-chart"]
+	path = fcc-bar-chart
+	url = https://github.com/relwiwa/fcc-bar-chart
+[submodule "fcc-scatterplot-graph"]
+	path = fcc-scatterplot-graph
+	url = https://github.com/relwiwa/fcc-scatterplot-graph
+[submodule "fcc-heat-map"]
+	path = fcc-heat-map
+	url = https://github.com/relwiwa/fcc-heat-map
+[submodule "fcc-force-graph"]
+	path = fcc-force-graph
+	url = https://github.com/relwiwa/fcc-force-graph
+[submodule "fcc-meteorite-map"]
+	path = fcc-meteorite-map
+	url = https://github.com/relwiwa/fcc-meteorite-map
